@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LucasVe95&label=Visites&color=36BCF7&style=flat" alt="Compteur de visites" />
+  <a href="https://github.com/LucasVe95?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FLucasVe95&query=%24.public_repos&label=D%C3%A9p%C3%B4ts%20publics&logo=github&style=flat&color=36BCF7" alt="Dépôts publics" /></a>
   <a href="https://github.com/LucasVe95?tab=followers"><img src="https://img.shields.io/github/followers/LucasVe95?label=Followers&style=flat&logo=github" alt="Followers" /></a>
 </p>
 
@@ -13,7 +13,7 @@
 
 ## ‍ À propos de moi
 
--  Je travaille actuellement sur : diferent projet perso privé dont des jeux, de l'aprentissage de language ou juste des logiciel
+-  Je travaille actuellement sur diferent projet perso privé dont des jeux, de l'aprentissage de language ou juste des logiciel
 -  Je vais commencé l'apprentissage  en ce moment du C,C++ : 
 -  Ouvert a la discution_
 
