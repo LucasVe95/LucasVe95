@@ -11,16 +11,16 @@
 
 ---
 
-## 🧑‍💻 À propos de moi
+## ‍ À propos de moi
 
-- 🔭 Je travaille actuellement sur : _à compléter_
-- 🌱 J'apprends en ce moment : _à compléter_
-- 💬 Parlez-moi de : développement web, backend, et de tout ce qui touche au code
-- ⚡ Fun fact : _à compléter_
+-  Je travaille actuellement sur : _à compléter_
+-  J'apprends en ce moment : _à compléter_
+-  Parlez-moi de : développement web, backend, et de tout ce qui touche au code
+-  Fun fact : _à compléter_
 
 ---
 
-## 🛠️ Stack & technologies
+## ️ Stack & technologies
 
 ### Web front
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 Statistiques GitHub
+##  Statistiques GitHub
 
 <p align="center">
   <img height="200" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats GitHub" />
@@ -65,12 +65,12 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=LucasVe95&theme=tokyonight&hide_border=true" alt="Streak GitHub" />
+  <img height="200" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Heures de commit" />
 </p>
 
 ---
 
-## 📫 Me contacter
+##  Me contacter
 
 <p align="center">
   <a href="https://www.linkedin.com/in/VOTRE-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
