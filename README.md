@@ -13,7 +13,7 @@
 
 ## ‍ À propos de moi
 
--  Je travaille actuellement sur diferent projet perso privé dont des jeux, de l'aprentissage de language ou juste des logiciel
+- Je travaille actuellement sur diferent projet perso privé dont des jeux, de l'aprentissage de language ou juste des logiciel
 -  Je vais commencé l'apprentissage  en ce moment du C,C++ : 
 -  Ouvert a la discution_
 
