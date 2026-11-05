@@ -1,4 +1,4 @@
-<h1 align="center">Hi, je suis Lucas 👋</h1>
+<h1 align="center">Salut, je suis Lucas</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+passionn%C3%A9;Curieux+de+tous+les+langages;J'apprends+en+construisant+des+projets" alt="Typing SVG" />
@@ -13,10 +13,9 @@
 
 ## ‍ À propos de moi
 
--  Je travaille actuellement sur : _à compléter_
--  J'apprends en ce moment : _à compléter_
--  Parlez-moi de : développement web, backend, et de tout ce qui touche au code
--  Fun fact : _à compléter_
+-  Je travaille actuellement sur : diferent projet perso privé dont des jeux, de l'aprentissage de language ou juste des logiciel
+-  Je vais commencé l'apprentissage  en ce moment du C,C++ : 
+-  Ouvert a la discution_
 
 ---
 
@@ -73,9 +72,9 @@
 ##  Me contacter
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/VOTRE-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:VOTRE-EMAIL@exemple.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://VOTRE-SITE.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/lucasveysset"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:lucasveysset1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://lucasve95.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
